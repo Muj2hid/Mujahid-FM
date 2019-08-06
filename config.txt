@@ -3,4 +3,4 @@ prefix=M
 game=Mujahid AL-IRAQI
 stayinchannel=true
 songinstatus=false
-token=NjA4Mjg4OTM0MjIwNTI5NjY0.XUmAQw.TRJJvOak-Moy4ya2VFbBs2mKXSE
+token=NjA4MzQ0OTQ5MTg4MTk4NDA2.XUmzaQ.BpZ7o7ezCoFEmktjgOUupVy6A-c
