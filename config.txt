@@ -1,0 +1,6 @@
+owner=604006785786839051
+prefix=M
+game=Mujahid AL-IRAQI
+stayinchannel=true
+songinstatus=false
+token=NjA4Mjg4OTM0MjIwNTI5NjY0.XUmAQw.TRJJvOak-Moy4ya2VFbBs2mKXSE
